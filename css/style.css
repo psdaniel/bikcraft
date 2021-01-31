@@ -110,7 +110,7 @@ img {
   color: #FFF;
 }
 
-.menu-ativo {
+.header-menu ul li a.menu-ativo {
   color: #fff;
 }
 
